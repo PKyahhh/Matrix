@@ -6,7 +6,7 @@ goto greeting
 
 :Greeting
 cls
-echo Hello Pradham.
+echo Hello User.
 pause
 goto Matrix
 
